@@ -1,0 +1,4 @@
+fastapi
+httpx
+mcp[cli]
+jsonschema
